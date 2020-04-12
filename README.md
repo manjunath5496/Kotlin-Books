@@ -16,7 +16,7 @@
                 <li><a target="_blank" href="https://github.com/manjunath5496/Kotlin-Books/blob/master/kot(10).pdf" style="text-decoration:none;">Learn Android Studio 3 with Kotlin</a></li>
 	  <li><a target="_blank" href="https://github.com/manjunath5496/Kotlin-Books/blob/master/kot(11).pdf" style="text-decoration:none;"> Learning RxJava: Build concurrent, maintainable, and responsive Java in less time </a></li>
                 <li><a target="_blank" href="https://github.com/manjunath5496/Kotlin-Books/blob/master/kot(12).pdf" style="text-decoration:none;">Pro Android with Kotlin</a></li>
-                <li><a target="_blank" href="https://github.com/manjunath5496/Kotlin-Books/blob/master/kot(13).pdf" style="text-decoration:none;">Exploratory Data Analysis with MATLAB</a></li>
+                <li><a target="_blank" href="https://github.com/manjunath5496/Kotlin-Books/blob/master/kot(13).pdf" style="text-decoration:none;">Kotlin / Android Studio 3.0 Development Essentials </a></li>
                 <li><a target="_blank" href="https://github.com/manjunath5496/Kotlin-Books/blob/master/kot(14).pdf" style="text-decoration:none;">Programming Kotlin</a></li>
                 <li><a target="_blank" href="https://github.com/manjunath5496/Kotlin-Books/blob/master/kot(15).pdf" style="text-decoration:none;">Reactive Programming in Kotlin</a></li>
                 <li><a target="_blank" href="https://github.com/manjunath5496/Kotlin-Books/blob/master/kot(16).pdf" style="text-decoration:none;">Android Things Quick Start Guide</a></li>
