@@ -83,6 +83,39 @@
 </tbody>
 </table>
 
+</br>
+
+<div class="toctitle" dir="ltr" lang="en">
+<h2 id="mw-toc-heading">Contents</h2>
+<label class="toctogglelabel" for="toctogglecheckbox"></label></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Design"><span class="toctext">Design</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Syntax"><span class="toctext">Syntax</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Functional_programming_style"><span class="toctext">Functional programming style</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Main_entry_point"><span class="toctext">Main entry point</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Extension_methods"><span class="toctext">Extension methods</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Unpack_arguments_with_spread_operator"><span class="toctext">Unpack arguments with spread operator</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Deconstructor_methods"><span class="toctext">Deconstructor methods</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Nested_functions"><span class="toctext">Nested functions</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Classes_are_final_by_default"><span class="toctext">Classes are final by default</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Abstract_classes_are_open_by_default"><span class="toctext">Abstract classes are open by default</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Classes_are_public_by_default"><span class="toctext">Classes are public by default</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Primary_constructor_vs._secondary_constructors"><span class="toctext">Primary constructor vs. secondary constructors</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Data_Class"><span class="toctext">Data Class</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Anko_library"><span class="toctext">Anko library</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Kotlin_interactive_shell"><span class="toctext">Kotlin interactive shell</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Kotlin_as_a_scripting_language"><span class="toctext">Kotlin as a scripting language</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Complex_%22hello_world%22_example"><span class="toctext">Complex "hello world" example</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#Tools"><span class="toctext">Tools</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#Applications"><span class="toctext">Applications</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#Adoption"><span class="toctext">Adoption</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#Books"><span class="toctext">Books</span></a></li>
+</ul>
+
 
 
 
